@@ -267,4 +267,4 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
-- **LinkedIn**: [Mubasher-Rashid](https://www.linkedin.com/in/mubasher-rashid/))
+- **LinkedIn**: [Mubasher-Rashid]((https://www.linkedin.com/in/mubasher-rashid/))
